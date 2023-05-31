@@ -19,7 +19,7 @@ function ContactPage({ contactItems, newsletterItems, footerItems }) {
             <Breadcrumb
                 subTitle="Contact us"
                 title="Get in Touch"
-                desc="Construction of itself, because it is pain some proper style design occur are pleasure"
+                
             />
             <Contact contactItems={contactItems} />
             <Newsletter newsletterItems={newsletterItems} />

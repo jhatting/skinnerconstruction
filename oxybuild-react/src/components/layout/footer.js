@@ -34,7 +34,7 @@ function Footer({ footerItems }) {
                                                 {footerItem?.inquary}
                                             </h2>
                                             <Link
-                                                href="tel://+12345-879-854"
+                                                href="tel://+15805652601"
                                                 className={
                                                     classes.inquary_number
                                                 }
@@ -167,13 +167,13 @@ function Footer({ footerItems }) {
                                     <div className={classes.copyright}>
                                         <span className={classes.text}>
                                             © {new Date().getFullYear()}{' '}
-                                            OxyBuild Made with
+                                            SkinnerConstruction Made with
                                             <span className={classes.icon}>
-                                                <FaIcons.FaHeart />
+                                                <FaIcons.FaFire />
                                             </span>
                                             by
-                                            <a href="https://hasthemes.com/">
-                                                HasThemes
+                                            <a href="https://hatting.dev/">
+                                                Hatting.dev
                                             </a>
                                         </span>
                                     </div>

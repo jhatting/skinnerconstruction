@@ -150,64 +150,7 @@ function Header() {
                                                 <span>Home</span>
                                             </Link>
                                         </li>
-                                        <li>
-                                            <Link href="/about">
-                                                <span>About Us</span>
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/services">
-                                                <span>Service</span>
-                                            </Link>
-                                        </li>
-                                        <li className={classes.dropdown_holder}>
-                                            <Link href="/projects/project-fullwidth">
-                                                <span>Projects</span>
-                                            </Link>
-                                            <ul
-                                                className={
-                                                    classes.dropdown_menu
-                                                }
-                                            >
-                                                <li>
-                                                    <Link href="/projects/project-2-columns">
-                                                        Project 2 Columns
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/projects/project-gallery">
-                                                        Project Gallery
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/projects/project-slider">
-                                                        Project Slider
-                                                    </Link>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        
-                                        <li className={classes.dropdown_holder}>
-                                            <Link href="/blogs/blog-fullwidth">
-                                                <span>Blogs</span>
-                                            </Link>
-                                            <ul
-                                                className={
-                                                    classes.dropdown_menu
-                                                }
-                                            >
-                                                <li>
-                                                    <Link href="/blogs/blog-leftsidebar">
-                                                        Blog Left Sidebar
-                                                    </Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/blogs/blog-rightsidebar">
-                                                        Blog Right Sidebar
-                                                    </Link>
-                                                </li>
-                                            </ul>
-                                        </li>
+                                       
                                         <li className={classes.separator}>
                                             <Link href="/contact">
                                                 <span>Contact</span>
