@@ -115,9 +115,9 @@ function Contact({ contactItems }) {
                             <Col lg={{ span: 6 }} className="ps-lg-50">
                                 <div className="map_with__pattern">
                                     <iframe
-                                        title="Skinner Construction contact title"
-                                        className="map_size"
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.693667617067!2d144.946279515845!3d-37.82064364221098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4cee0cec83%3A0xd019c5f69915a4a0!2sCollins%20St%2C%20West%20Melbourne%20VIC%203003%2C%20Australia!5e0!3m2!1sen!2sbd!4v1607512676761!5m2!1sen!2sbd"
+                                        title="Skinner contact title"
+                                        className="map_size" 
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.5756604835587!2d-96.72074342401352!3d33.87482522707721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c9364bb6f1b35%3A0x8f6d8a1baf439d48!2s10534%20Duane%20Dr%2C%20Kingston%2C%20OK%2073439!5e0!3m2!1sen!2sus!4v1685635952579!5m2!1sen!2sus" 
                                     />
                                     <div className="map_pattern">
                                         <img
