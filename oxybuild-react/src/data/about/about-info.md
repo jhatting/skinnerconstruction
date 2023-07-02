@@ -2,7 +2,7 @@
 id: 'about-01'
 sectionTitle: 'We Construct your needs'
 sectionSubtitle: 'About Us'
-sectionDesc: 'Construction of itself, because it is pain, but <br /> because some proper style design occur in toil and pain pleasure we have expert team'
+sectionDesc: 'Welcome to our construction company, a premier provider of steel structure solutions and remodeling services.With years of industry experience and a deep-rooted commitment to craftsmanship, we have established ourselves as a trusted name in the construction field. Our team of skilled professionals excels in the design, fabrication, and installation of robust steel structures, tailored to meet the unique needs of our clients.  '
 image: '/images/about/1-1.jpg'
 alt: 'About Image'
 pattern: '/images/about/pattern.png'
