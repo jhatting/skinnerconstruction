@@ -12,21 +12,7 @@ ourProgress: 'Years of <span>Experience</span>'
 experienceImage: '/images/about/avatar.png'
 experienceAlt: 'Avatar'
 aboutSubtitle: 'Provide the best Constructing services for our client with their satisfaction'
-aboutDesc: 'Construction of itself, because it is pain, but because some are proper style design occur in toil and pain pleasure we have a expert team some of the main features..'
-listItem:
-    [
-        {
-            id: 'listItem-01',
-            listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
-        },
-        {
-            id: 'listItem-02',
-            listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
-        },
-        {
-            id: 'listItem-03',
-            listText: 'Construction of itself, because it is pain, but because proper style design occur in toil and pain pleasure',
-        },
-    ]
+aboutDesc: 'Look no further! At our construction company, we pride ourselves on delivering exceptional quality and unparalleled expertise in constructing steel structures and transforming spaces through stunning remodeling projects. With our team of highly skilled professionals, cutting-edge technology, and a meticulous attention to detail, we ensure that every project is completed to perfection. From commercial buildings to residential homes, we combine strength, durability, and aesthetic appeal to create remarkable steel structures and breath-taking remodels that exceed your expectations. Trust us to bring your vision to life with precision and excellence!'
+
 checkIcon: 'FaCheck'
 ---
