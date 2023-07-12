@@ -35,7 +35,7 @@ function BannerFive({ bannerTwoItems }) {
                                     </p>
                                     <div className={classes.btn__wrap}>
                                         <Link
-                                            href="/projects"
+                                            href="/projects/project-fullwidth"
                                             className={`me-20 ${classes.btn} ${classes.btn_primary} ${classes.btn_hover__white}`}
                                         >
                                             Learn More
